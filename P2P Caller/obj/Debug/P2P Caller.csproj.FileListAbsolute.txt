@@ -1,0 +1,98 @@
+C:\Users\ciesl\source\repos\P2P Caller\P2P Caller\bin\Debug\P2P Caller.exe.config
+C:\Users\ciesl\source\repos\P2P Caller\P2P Caller\bin\Debug\P2P Caller.exe
+C:\Users\ciesl\source\repos\P2P Caller\P2P Caller\bin\Debug\P2P Caller.pdb
+C:\Users\ciesl\source\repos\P2P Caller\P2P Caller\obj\Debug\P2P Caller.csprojAssemblyReference.cache
+C:\Users\ciesl\source\repos\P2P Caller\P2P Caller\obj\Debug\P2P_Caller.MainWindow.resources
+C:\Users\ciesl\source\repos\P2P Caller\P2P Caller\obj\Debug\P2P_Caller.Properties.Resources.resources
+C:\Users\ciesl\source\repos\P2P Caller\P2P Caller\obj\Debug\P2P Caller.csproj.GenerateResource.cache
+C:\Users\ciesl\source\repos\P2P Caller\P2P Caller\obj\Debug\P2P Caller.csproj.CoreCompileInputs.cache
+C:\Users\ciesl\source\repos\P2P Caller\P2P Caller\obj\Debug\P2P Caller.exe
+C:\Users\ciesl\source\repos\P2P Caller\P2P Caller\obj\Debug\P2P Caller.pdb
+C:\Users\ciesl\source\repos\P2P Caller\P2P Caller\obj\Debug\P2P_Caller.ContactsWindow.resources
+C:\Users\ciesl\source\repos\P2P Caller\P2P Caller\obj\Debug\P2P_Caller.ContactWindow.resources
+C:\Users\ciesl\source\repos\P2P Caller\P2P Caller\obj\Debug\P2P_Caller.SettingsWindow.resources
+C:\Users\ciesl\source\repos\P2P Caller\P2P Caller\obj\Debug\P2P_Caller.HistoryWindow.resources
+C:\Users\ciesl\source\repos\P2P Caller\P2P Caller\bin\Debug\NAudio.dll
+C:\Users\ciesl\source\repos\P2P Caller\P2P Caller\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ciesl\source\repos\P2P Caller\P2P Caller\bin\Debug\NAudio.xml
+C:\Users\ciesl\source\repos\P2P Caller\P2P Caller\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ciesl\source\repos\P2P Caller\P2P Caller\obj\Debug\P2P Caller.csproj.CopyComplete
+C:\Users\ciesl\Desktop\P2P Caller\P2P Caller\bin\Debug\P2P Caller.exe.config
+C:\Users\ciesl\Desktop\P2P Caller\P2P Caller\bin\Debug\P2P Caller.exe
+C:\Users\ciesl\Desktop\P2P Caller\P2P Caller\bin\Debug\P2P Caller.pdb
+C:\Users\ciesl\Desktop\P2P Caller\P2P Caller\bin\Debug\NAudio.dll
+C:\Users\ciesl\Desktop\P2P Caller\P2P Caller\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ciesl\Desktop\P2P Caller\P2P Caller\bin\Debug\NAudio.xml
+C:\Users\ciesl\Desktop\P2P Caller\P2P Caller\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ciesl\Desktop\P2P Caller\P2P Caller\obj\Debug\P2P Caller.csprojAssemblyReference.cache
+C:\Users\ciesl\Desktop\P2P Caller\P2P Caller\obj\Debug\P2P_Caller.ContactsWindow.resources
+C:\Users\ciesl\Desktop\P2P Caller\P2P Caller\obj\Debug\P2P_Caller.ContactWindow.resources
+C:\Users\ciesl\Desktop\P2P Caller\P2P Caller\obj\Debug\P2P_Caller.HistoryWindow.resources
+C:\Users\ciesl\Desktop\P2P Caller\P2P Caller\obj\Debug\P2P_Caller.MainWindow.resources
+C:\Users\ciesl\Desktop\P2P Caller\P2P Caller\obj\Debug\P2P_Caller.Properties.Resources.resources
+C:\Users\ciesl\Desktop\P2P Caller\P2P Caller\obj\Debug\P2P_Caller.SettingsWindow.resources
+C:\Users\ciesl\Desktop\P2P Caller\P2P Caller\obj\Debug\P2P Caller.csproj.GenerateResource.cache
+C:\Users\ciesl\Desktop\P2P Caller\P2P Caller\obj\Debug\P2P Caller.csproj.CoreCompileInputs.cache
+C:\Users\ciesl\Desktop\P2P Caller\P2P Caller\obj\Debug\P2P Caller.csproj.CopyComplete
+C:\Users\ciesl\Desktop\P2P Caller\P2P Caller\obj\Debug\P2P Caller.exe
+C:\Users\ciesl\Desktop\P2P Caller\P2P Caller\obj\Debug\P2P Caller.pdb
+C:\Users\ciesl\Documents\GitHub\P2P-Caller\P2P Caller\obj\Debug\P2P Caller.csprojAssemblyReference.cache
+C:\Users\ciesl\Documents\GitHub\P2P-Caller\P2P Caller\obj\Debug\P2P_Caller.ContactsWindow.resources
+C:\Users\ciesl\Documents\GitHub\P2P-Caller\P2P Caller\obj\Debug\P2P_Caller.ContactWindow.resources
+C:\Users\ciesl\Documents\GitHub\P2P-Caller\P2P Caller\obj\Debug\P2P_Caller.HistoryWindow.resources
+C:\Users\ciesl\Documents\GitHub\P2P-Caller\P2P Caller\obj\Debug\P2P_Caller.MainWindow.resources
+C:\Users\ciesl\Documents\GitHub\P2P-Caller\P2P Caller\obj\Debug\P2P_Caller.Properties.Resources.resources
+C:\Users\ciesl\Documents\GitHub\P2P-Caller\P2P Caller\obj\Debug\P2P_Caller.SettingsWindow.resources
+C:\Users\ciesl\Documents\GitHub\P2P-Caller\P2P Caller\obj\Debug\P2P Caller.csproj.GenerateResource.cache
+C:\Users\ciesl\Documents\GitHub\P2P-Caller\P2P Caller\obj\Debug\P2P Caller.csproj.CoreCompileInputs.cache
+C:\Users\ciesl\Documents\GitHub\P2P-Caller\P2P Caller\obj\Debug\P2P Caller.exe
+C:\Users\ciesl\Documents\GitHub\P2P-Caller\P2P Caller\obj\Debug\P2P Caller.pdb
+C:\Users\ciesl\Documents\GitHub\P2P-Caller\P2P Caller\bin\Debug\P2P Caller.exe.config
+C:\Users\ciesl\Documents\GitHub\P2P-Caller\P2P Caller\bin\Debug\P2P Caller.exe
+C:\Users\ciesl\Documents\GitHub\P2P-Caller\P2P Caller\bin\Debug\P2P Caller.pdb
+C:\Users\ciesl\Documents\GitHub\P2P-Caller\P2P Caller\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ciesl\Documents\GitHub\P2P-Caller\P2P Caller\bin\Debug\NAudio.xml
+C:\Users\ciesl\Documents\GitHub\P2P-Caller\P2P Caller\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ciesl\Documents\GitHub\P2P-Caller\P2P Caller\obj\Debug\P2P Caller.csproj.CopyComplete
+C:\Users\ciesl\Documents\GitHub\P2P-Caller\P2P Caller\obj\Debug\P2P_Caller.Windows.CallWindow.resources
+C:\Users\ciesl\Documents\GitHub\P2P-Caller\P2P Caller\obj\Debug\P2P_Caller.Windows.IncomingCallMessageBox.resources
+C:\Users\Rafal\Documents\Studia\Semestr 6\TIP\P2P-Caller\P2P Caller\bin\Debug\P2P Caller.exe.config
+C:\Users\Rafal\Documents\Studia\Semestr 6\TIP\P2P-Caller\P2P Caller\bin\Debug\P2P Caller.exe
+C:\Users\Rafal\Documents\Studia\Semestr 6\TIP\P2P-Caller\P2P Caller\bin\Debug\P2P Caller.pdb
+C:\Users\Rafal\Documents\Studia\Semestr 6\TIP\P2P-Caller\P2P Caller\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Rafal\Documents\Studia\Semestr 6\TIP\P2P-Caller\P2P Caller\bin\Debug\NAudio.xml
+C:\Users\Rafal\Documents\Studia\Semestr 6\TIP\P2P-Caller\P2P Caller\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Rafal\Documents\Studia\Semestr 6\TIP\P2P-Caller\P2P Caller\obj\Debug\P2P Caller.csprojAssemblyReference.cache
+C:\Users\Rafal\Documents\Studia\Semestr 6\TIP\P2P-Caller\P2P Caller\obj\Debug\P2P_Caller.Windows.CallWindow.resources
+C:\Users\Rafal\Documents\Studia\Semestr 6\TIP\P2P-Caller\P2P Caller\obj\Debug\P2P_Caller.ContactsWindow.resources
+C:\Users\Rafal\Documents\Studia\Semestr 6\TIP\P2P-Caller\P2P Caller\obj\Debug\P2P_Caller.ContactWindow.resources
+C:\Users\Rafal\Documents\Studia\Semestr 6\TIP\P2P-Caller\P2P Caller\obj\Debug\P2P_Caller.HistoryWindow.resources
+C:\Users\Rafal\Documents\Studia\Semestr 6\TIP\P2P-Caller\P2P Caller\obj\Debug\P2P_Caller.Windows.IncomingCallMessageBox.resources
+C:\Users\Rafal\Documents\Studia\Semestr 6\TIP\P2P-Caller\P2P Caller\obj\Debug\P2P_Caller.MainWindow.resources
+C:\Users\Rafal\Documents\Studia\Semestr 6\TIP\P2P-Caller\P2P Caller\obj\Debug\P2P_Caller.Properties.Resources.resources
+C:\Users\Rafal\Documents\Studia\Semestr 6\TIP\P2P-Caller\P2P Caller\obj\Debug\P2P_Caller.SettingsWindow.resources
+C:\Users\Rafal\Documents\Studia\Semestr 6\TIP\P2P-Caller\P2P Caller\obj\Debug\P2P Caller.csproj.GenerateResource.cache
+C:\Users\Rafal\Documents\Studia\Semestr 6\TIP\P2P-Caller\P2P Caller\obj\Debug\P2P Caller.csproj.CoreCompileInputs.cache
+C:\Users\Rafal\Documents\Studia\Semestr 6\TIP\P2P-Caller\P2P Caller\obj\Debug\P2P Caller.csproj.CopyComplete
+C:\Users\Rafal\Documents\Studia\Semestr 6\TIP\P2P-Caller\P2P Caller\obj\Debug\P2P Caller.exe
+C:\Users\Rafal\Documents\Studia\Semestr 6\TIP\P2P-Caller\P2P Caller\obj\Debug\P2P Caller.pdb
+C:\Users\Rafal\Desktop\P2P-Caller-MyCopy\P2P Caller\bin\Debug\P2P Caller.exe.config
+C:\Users\Rafal\Desktop\P2P-Caller-MyCopy\P2P Caller\bin\Debug\P2P Caller.exe
+C:\Users\Rafal\Desktop\P2P-Caller-MyCopy\P2P Caller\bin\Debug\P2P Caller.pdb
+C:\Users\Rafal\Desktop\P2P-Caller-MyCopy\P2P Caller\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Rafal\Desktop\P2P-Caller-MyCopy\P2P Caller\bin\Debug\NAudio.xml
+C:\Users\Rafal\Desktop\P2P-Caller-MyCopy\P2P Caller\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Rafal\Desktop\P2P-Caller-MyCopy\P2P Caller\obj\Debug\P2P Caller.csprojAssemblyReference.cache
+C:\Users\Rafal\Desktop\P2P-Caller-MyCopy\P2P Caller\obj\Debug\P2P_Caller.Windows.CallWindow.resources
+C:\Users\Rafal\Desktop\P2P-Caller-MyCopy\P2P Caller\obj\Debug\P2P_Caller.ContactsWindow.resources
+C:\Users\Rafal\Desktop\P2P-Caller-MyCopy\P2P Caller\obj\Debug\P2P_Caller.ContactWindow.resources
+C:\Users\Rafal\Desktop\P2P-Caller-MyCopy\P2P Caller\obj\Debug\P2P_Caller.HistoryWindow.resources
+C:\Users\Rafal\Desktop\P2P-Caller-MyCopy\P2P Caller\obj\Debug\P2P_Caller.Windows.IncomingCallMessageBox.resources
+C:\Users\Rafal\Desktop\P2P-Caller-MyCopy\P2P Caller\obj\Debug\P2P_Caller.MainWindow.resources
+C:\Users\Rafal\Desktop\P2P-Caller-MyCopy\P2P Caller\obj\Debug\P2P_Caller.Properties.Resources.resources
+C:\Users\Rafal\Desktop\P2P-Caller-MyCopy\P2P Caller\obj\Debug\P2P_Caller.SettingsWindow.resources
+C:\Users\Rafal\Desktop\P2P-Caller-MyCopy\P2P Caller\obj\Debug\P2P Caller.csproj.GenerateResource.cache
+C:\Users\Rafal\Desktop\P2P-Caller-MyCopy\P2P Caller\obj\Debug\P2P Caller.csproj.CoreCompileInputs.cache
+C:\Users\Rafal\Desktop\P2P-Caller-MyCopy\P2P Caller\obj\Debug\P2P Caller.csproj.CopyComplete
+C:\Users\Rafal\Desktop\P2P-Caller-MyCopy\P2P Caller\obj\Debug\P2P Caller.exe
+C:\Users\Rafal\Desktop\P2P-Caller-MyCopy\P2P Caller\obj\Debug\P2P Caller.pdb
